@@ -35,7 +35,3 @@
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 #### Ответ:
-1. ![install nexus](https://github.com/Borobov/gitlab-hw3/blob/e99653e4e8e54df152c4aa5fa1c2d8f36004d561/img/Nexus.png)
-2. ![nexus repo](https://github.com/Borobov/gitlab-hw3/blob/28edf7842fca3527249e0f4014d59596940dfffb/img/3-nexus-repo.png)
-3. ![jenkins setting repo](https://github.com/Borobov/gitlab-hw3/blob/28edf7842fca3527249e0f4014d59596940dfffb/img/3-jenkins-setting-nexus.png)
-4. ![nexus result repo](https://github.com/Borobov/gitlab-hw3/blob/28edf7842fca3527249e0f4014d59596940dfffb/img/3-nexus-repo-2.png)
