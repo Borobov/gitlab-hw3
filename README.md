@@ -23,7 +23,9 @@
 2. `Перепишите сборку из задания 1 на declarative в виде кода.`
 `В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.`
 #### Ответ:
-
+1. ![script](https://github.com/Borobov/gitlab-hw3/blob/47cfa4d4fe1ae9a4ec435349cb31475aa8da7a25/img/2-1.jpg)
+2. ![graph result](https://github.com/Borobov/gitlab-hw3/blob/47cfa4d4fe1ae9a4ec435349cb31475aa8da7a25/img/2-2.jpg)
+3. ![log result](https://github.com/Borobov/gitlab-hw3/blob/47cfa4d4fe1ae9a4ec435349cb31475aa8da7a25/img/2-3.jpg)
 ---
 
 ### Задение 3
